@@ -78,7 +78,7 @@
     background-image: url(../img/videos-thumbnail-video2.png);
 }
 
-.chanada__youtube--video1, .chamada__youtube--video2 {
+.chamada__youtube--video1, .chamada__youtube--video2 {
     background-size: cover;
     width: 100%;
 }
@@ -97,7 +97,7 @@
         grid-area: chamada;
     }
 
-    .--icone-youtube::before {
+    .icone-youtube::before {
         width: 5rem;
         height: 5rem;
     }
